@@ -2,7 +2,7 @@
 title: "AirTest, Pocoを使ったUnity Appの自動テスト"
 author:
   name: lee
-date: 2024-03-20 18:30:00 +0900
+date: 2024-03-18 18:30:00 +0900
 categories: [Git]
 tags: [自動タスと, Unity, ios, Android]
 ---
