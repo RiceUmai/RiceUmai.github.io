@@ -2,7 +2,7 @@
 title: "ollamaとUnityの連動"
 author:
   name: lee
-date: 2024-03-18 18:30:00 +0900
+date: 2024-03-19 15:00:00 +09:00
 categories: [AI]
 tags: [AI, Unity, Server]
 ---
@@ -11,7 +11,7 @@ tags: [AI, Unity, Server]
 * Unityアプリから、質問内容をLocalのChatBotサーバへ送るとサーバから返事を貰うことができる。
 
 ## 全体的な構造
-![whimsical](/assets/img/Ollama-Unity/whimsical.jpg){: width="400" height="400" }
+![whimsical](/assets/img/Ollama-Unity/whimsical.JPG){: width="400" height="400" }
 
 ## 使用した機材、ソフト
 1. OrangePi 5(メモリ8GB モデル)
