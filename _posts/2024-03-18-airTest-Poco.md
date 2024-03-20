@@ -9,3 +9,5 @@ tags: [自動タスと, Unity, ios, Android]
 
 # 目的
 * 2以上のssh Private Keyを登録して、それぞれのGitHubのRepositoryにAccessする方法
+
+![Desktop View](/assets/img/androidDevice.JPG){: width="700" height="400" }
