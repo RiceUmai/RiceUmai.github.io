@@ -15,7 +15,7 @@ tags: [自動タスと, Unity, ios, Android]
 ## テストプロジェットを実行
 
 - Unityプロジェットダウンロードして、apkをBlueStacksや実機デバイスにインストール
-  -[SampleProject](https://github.com/RiceUmai/airTest-poco-test)
+* [SampleProject](https://github.com/RiceUmai/airTest-poco-test)
     
 - PCでAirtest IDE上で「poco-test-2/python」の中にいる「autoTest.py」を開く
 - デバイスをAirtest IDEに接続
